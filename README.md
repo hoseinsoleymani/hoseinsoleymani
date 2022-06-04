@@ -1,41 +1,67 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=6200&center=true&vCenter=true&width=546&lines=Hi+there+and+welcome+to+my+github+profile;My+name+is+Hosein+Soleymani+nice+to+meet+U🙂)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=6200&center=true&vCenter=true&width=522&lines=Hi+there+and+welcome+to+my+github+profile;My+name+is+Hosein+Soleymani+nice+to+meet+U🙂)](https://git.io/typing-svg)
+</div>
 
 
-### &nbsp;< About Me / >
 
 
-### Hi there 👋 I'm [Hosein Soleymani]
+### < About Me / >
+
+
+Hi there 👋 I'm [Hosein Soleymani]
 > Frontend Developer
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
 I am Mid-level Frontend developer beable to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using SOLID Principles. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 </p>
 </div>
+<hr>
 
-### Programming Languages 🌐
+### < Skills / > 🛠️
+![HTML5](https://img.shields.io/badge/Html5-323330.svg?&style=flat-square&logo=html5&color=222)
+![CSS3](https://img.shields.io/badge/Css3-323330.svg?&style=flat-square&logo=css3&color=222)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&color=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-323330.svg?&style=flat-square&logo=typescript&color=222)
+![React](https://img.shields.io/badge/React-323330.svg?&style=flat-square&logo=react&color=222)
+![Node](https://img.shields.io/badge/Node-323330.svg?&style=flat-square&logo=Node&color=222)
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
-|---|---|---|---|---|---|
- 
-### Tools 🛠️
+### < Tools / > 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
+![Redux](https://img.shields.io/badge/Redux-323330.svg?&style=flat-square&logo=redux&color=222)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-323330.svg?&style=flat-square&logo=ReactQuery&color=222)
+![webpack](https://img.shields.io/badge/webpack-323330.svg?&style=flat-square&logo=webpack&color=222)
+![Babel](https://img.shields.io/badge/Babel-323330.svg?&style=flat-square&logo=Babel&color=222)
+![NextJS](https://img.shields.io/badge/Nextjs-323330.svg?&style=flat-square&logo=nextjs&color=222)
+![styledcomponents](https://img.shields.io/badge/Styledcomponents-323330.svg?&style=flat-square&logo=styledcomponents&color=222)
+![JSS](https://img.shields.io/badge/JSS-323330.svg?&style=flat-square&logo=JSS&color=222)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-323330.svg?&style=flat-square&logo=Bootstrap&color=222)
+![Mui](https://img.shields.io/badge/Mui-323330.svg?&style=flat-square&logo=mui&color=222)
+![tailwindcss](https://img.shields.io/badge/Tailwindcss-323330.svg?&style=flat-square&logo=tailwindcss&color=222)
+![Cypress](https://img.shields.io/badge/Cypress-323330.svg?&style=flat-square&logo=Cypress&color=222)
+![Jest](https://img.shields.io/badge/Jest-323330.svg?&style=flat-square&logo=Jest&color=222)
+![Vite](https://img.shields.io/badge/Vite-323330.svg?&style=flat-square&logo=Vite&color=222)
+![Strapi](https://img.shields.io/badge/Strapi-323330.svg?&style=flat-square&logo=Strapi&color=222)
+![Mongodb](https://img.shields.io/badge/Mongodb-323330.svg?&style=flat-square&logo=Mongodb&color=222)
+![Express](https://img.shields.io/badge/Express-323330.svg?&style=flat-square&logo=Express&color=222)
+![Grammy](https://img.shields.io/badge/Grammy-323330.svg?&style=flat-square&logo=Grammy&color=222)
+![Npm](https://img.shields.io/badge/Npm-323330.svg?&style=flat-square&logo=Npm&color=222)
+![Yarn](https://img.shields.io/badge/Npm-323330.svg?&style=flat-square&logo=Yarn&color=222)
+![Git](https://img.shields.io/badge/Git-323330.svg?&style=flat-square&logo=Git&color=222)
+![Sql](https://img.shields.io/badge/Sql-323330.svg?&style=flat-square&logo=Sql&color=222)
+
+
+<hr>
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Hosein Soleymani GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinsoleymani&show_icons=true&count_private=true)](https://github.com/hoseinsoleymani)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoseinsoleymani&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoseinsoleymani&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
