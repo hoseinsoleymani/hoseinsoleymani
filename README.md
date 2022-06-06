@@ -54,21 +54,11 @@ I am Mid-level Frontend developer beable to build a Web presence from the ground
 
 <hr>
 
-### Github Stats
-
-[![Hosein Soleymani GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinsoleymani&show_icons=true&count_private=true)](https://github.com/hoseinsoleymani)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoseinsoleymani&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoseinsoleymani&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hosein-soleymani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="hoseinsolleymani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hoseinsolleymani@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
