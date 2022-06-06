@@ -60,6 +60,3 @@ I am Mid-level Frontend developer beable to build a Web presence from the ground
 <a href="https://www.linkedin.com/in/hosein-soleymani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 <a href="hoseinsolleymani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hoseinsolleymani@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
