@@ -14,7 +14,8 @@ Hi there 👋 I'm [Hosein Soleymani]
 
 <div>
  <p>
-I am Mid-level Frontend developer beable to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using SOLID Principles. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+   Highly skilled Frontend Developer with a passion for crafting exceptional user experiences. Boasting 6+ years of expertise in JavaScript, its frameworks, software design patterns, and clean coding practices. Proven track record of delivering visually appealing and intuitive UI/UX designs, with a keen eye for detail and a commitment to delivering exceptional results. Seeking to leverage my skills and drive to make a lasting impact at a top-tier company.
+I’m constantly trying to improve my skills to be the best at my job.
 </p>
 </div>
 <hr>
